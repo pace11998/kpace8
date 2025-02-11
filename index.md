@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to Kyler's CN Project 1
+
 ---
 
